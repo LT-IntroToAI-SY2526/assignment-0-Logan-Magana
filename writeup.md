@@ -19,7 +19,7 @@ Commiting and pusing is your way to update a repository. Because you need to con
 
 **3. What is a repository and what does it contain?**
 
-A repository is like your project 
+A repository is like your project where all your work is done with code for a game, code for electronics and README files that descibe what the repository is about and additional details related to the project 
 
 ---
 
@@ -27,7 +27,7 @@ A repository is like your project
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+[My Github Profile] (https://github.com/Logan-Magana)
 
 ---
 
@@ -35,8 +35,7 @@ A repository is like your project
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
-
+I'm most interested in the machine learning aspect of AI. To me, its interesting to see the how chunks of code can be used to run a program that was previously only capable by humans. It shows how compicated our brains really are!
 ---
 
 *Remember: This writeup will be graded based on the quality of your explanations and reflections, not just whether you got the "right" answer. Show your thinking!*

@@ -1,7 +1,7 @@
 # Assignment 0 Writeup
 
 **Name:** Logan Magana  
-**Date:** 08/20/2025
+**Date:** 08/22/2025
 
 ---
 
